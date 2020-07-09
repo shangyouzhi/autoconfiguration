@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.iauto.provider.autoconfigure.config.IAutoDataConfiguration,\
+  com.iauto.provider.autoconfigure.config.IAutoConfiguration

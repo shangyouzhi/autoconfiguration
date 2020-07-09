@@ -1,0 +1,10 @@
+iserver:
+  host: localhoust
+  port: 77777
+  url: /diver
+  enable: true
+
+user:
+  name: shangyouzhi
+  age: 28
+  idCard: 110100101001
