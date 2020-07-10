@@ -1,0 +1,24 @@
+{
+  "group":[
+            {
+              "sourceType": "com.iauto.provider.autoconfigure.properties.AutoConfigureProperties",
+              "name": "iserver.host",
+              "type": "java.lang.String"
+            },
+            {
+              "sourceType": "com.iauto.provider.autoconfigure.properties.AutoConfigureProperties",
+              "name": "iserver.url",
+              "type": "java.lang.String"
+            },
+            {
+              "sourceType": "com.iauto.provider.autoconfigure.properties.AutoConfigureProperties",
+              "name": "iserver.port",
+              "type": "java.lang.Integer"
+            },
+            {
+              "sourceType": "com.iauto.provider.autoconfigure.properties.AutoConfigureProperties",
+              "name": "iserver.enable",
+              "type": "java.lang.Boolean"
+            }
+  ]
+}
