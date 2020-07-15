@@ -18,7 +18,7 @@
         <spring-boot-start.version>2.2.6.RELEASE</spring-boot-start.version>
         <lombok.verion>1.18.10</lombok.verion>
         <commons-lang3.verion>3.9</commons-lang3.verion>
-        <guava.verison>18.0</guava.verison>
+        <guava.verison>[24.1.1,)</guava.verison>
     </properties>
 
     <dependencyManagement>
