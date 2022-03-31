@@ -15,7 +15,7 @@
     </modules>
 
     <properties>
-        <spring-boot-start.version>2.2.6.RELEASE</spring-boot-start.version>
+        <spring-boot-start.version>2.5.12</spring-boot-start.version>
         <lombok.verion>1.18.10</lombok.verion>
         <commons-lang3.verion>3.9</commons-lang3.verion>
         <guava.verison>[24.1.1,)</guava.verison>
